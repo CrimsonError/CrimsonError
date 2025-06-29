@@ -16,10 +16,6 @@ Hi! I am CrimsonError, but you can just call me Crimson. I'm just an avid progra
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
-
-
-#
-
 ### 🧰 Latest Work Examples
 
 <a href="https://github.com/crimsonerror/crimsonerror">
