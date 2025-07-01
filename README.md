@@ -2,8 +2,6 @@
 
 **`Environmental Artist (Developer/Programmer/Game Designer)`**
 
-Hi! I am CrimsonError, but you can just call me Crimson. I'm just an avid programmer and game developer with contributions to numerous game projects and just simple programs for helping me with some daily needs ~ also with a mix of other skills here and there. As of 2025, I have been in the field for 6 years and haved worked on numerous public/private projects---from Discord bots with advanced features, to simple encryption programs. If you would like to contact me, feel free to email crimson@crimsonerror.com. I can also commission Roblox/Source Engine esc. projects for free if I feel a spark of interest or through a form of payment (I only stick to roles like an Environmental Artist, Mapper, or any other form of building roles).
-
 ---
 
 ### 🛠️ Programs & Tools
@@ -28,6 +26,8 @@ And Hammer Editor
 </a>
 
 ---
+
+Hi! I am CrimsonError, but you can just call me Crimson. I'm just an avid programmer and game developer with contributions to numerous game projects and just simple programs for helping me with some daily needs ~ also with a mix of other skills here and there. As of 2025, I have been in the field for 6 years and haved worked on numerous public/private projects---from Discord bots with advanced features, to simple encryption programs. If you would like to contact me, feel free to email crimson@crimsonerror.com. I can also commission Roblox/Source Engine esc. projects for free if I feel a spark of interest or through a form of payment (I only stick to roles like an Environmental Artist, Mapper, or any other form of building roles).
 
 [website]: https://crimsonerror.com
 [youtube]: https://youtube.com/crimsontheory2
