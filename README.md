@@ -17,18 +17,7 @@
 
 |
 
-### 🧰 Latest Work Examples
-
-<a href="https://github.com/crimsonerror/crimsonerror">
-  <img src="https://www.crimsonerror.com/assets/images/Portal%20System%20Failure%20Screenshot%202024.11.03%20-%2020.20.35.28.png" alt="Portal System Failure" width="600"/>
-</a>
-<a href="https://github.com/crimsonerror/crimsonerror">
-  <img src="https://www.crimsonerror.com/assets/images/Portal%20System%20Failure%20Screenshot%202024.10.27%20-%2021.39.03.89.png" alt="Portal System Failure2" width="600"/>
-</a>
-
----
-
-Hi! I am CrimsonError, but you can just call me Crimson. I'm just an avid programmer and game developer with contributions to numerous game projects and just simple programs for helping me with some daily needs ~ also with a mix of other skills here and there. As of 2025, I have been in the field for 6 years and haved worked on numerous public/private projects---from Discord bots with advanced features, to simple encryption programs. If you would like to contact me, feel free to email crimson@crimsonerror.com. I can also commission Roblox/Source Engine esc. projects for free if I feel a spark of interest or through a form of payment (I only stick to roles like an Environmental Artist, Mapper, or any other form of building roles).
+My name is Crimson and I'm typically pretty talky and extroverted! I am an intermediate programmer and work as an advanced environmental artist. I regularly play PC games in my free time, particularly Roblox and a mix of other dystopian genres (Fallout, Half Life 2, etc.), and hanging around with my friends. I am very morally against the use of AI generating images, code, or videos; instead supporting individual human creativity, as AI often steals from creators without permission while scraping the web and internet as a whole. Besides just gaming and designing, I love playing the Saxophone (Alto) and listening to Jazz or Synth depending on my mood. If you are curious about my interests, you can reach me using the contact tab!
 
 [website]: https://crimsonerror.com
 [youtube]: https://youtube.com/crimsontheory2
