@@ -21,7 +21,7 @@
 
 ### 🦈 About Me
 
-My name is Crimson and I'm typically pretty talky and extroverted! I am an intermediate programmer and work as an advanced environmental artist. I regularly play PC games in my free time, particularly Roblox and a mix of other dystopian genres (Fallout, Half Life 2, etc.), and hanging around with my friends. I am very morally against the use of AI generating images, code, or videos; instead supporting individual human creativity, as AI often steals from creators without permission while scraping the web and internet as a whole. Besides just gaming and designing, I love playing the Saxophone (Alto) and listening to Jazz or Synth depending on my mood. If you are curious about my interests, you can reach me using the contact tab!
+Why read here when you can go to [website]: https://crimsonerror.com
 
 [website]: https://crimsonerror.com
 [youtube]: https://youtube.com/crimsontheory2
