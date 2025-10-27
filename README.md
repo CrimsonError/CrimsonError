@@ -21,7 +21,7 @@
 
 ### 🦈 About Me
 
-Why read here when you can go to [website]: https://crimsonerror.com
+Why read here when you can go to https://crimsonerror.com ????
 
 [website]: https://crimsonerror.com
 [youtube]: https://youtube.com/crimsontheory2
