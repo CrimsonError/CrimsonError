@@ -16,6 +16,8 @@
 
 ---
 
+---
+
 ### 🦈 About Me
 
 Why read here when you can go to https://crimsonerror.com ????
